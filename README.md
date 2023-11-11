@@ -1,6 +1,6 @@
-# NetSurveillance Login Bypass
+# Xiongmai NetSurveillance Login Bypass
 
-Exploit to bypass surveillance camera authentication mechanism
+Exploit to bypass Xiongmai surveillance camera authentication mechanism
 
 Tested version: V5.00.R02.00030695.10010.244306
 
