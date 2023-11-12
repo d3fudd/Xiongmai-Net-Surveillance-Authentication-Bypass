@@ -1,4 +1,4 @@
-# Xiongmai NetSurveillance Login Bypass
+# Xiongmai Net Surveillance Authentication Bypass
 
 Exploit to bypass Xiongmai surveillance camera authentication mechanism
 
